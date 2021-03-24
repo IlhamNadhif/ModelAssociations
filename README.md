@@ -1,1 +1,1 @@
-# ModelAssociations
+# ModelAssociations Sequelize
