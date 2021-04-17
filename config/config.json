@@ -2,21 +2,21 @@
   "development": {
     "username": "ilham",
     "password": "Ilham12345",
-    "database": "model_assoc",
+    "database": "modelassociation",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "ilham",
     "password": "Ilham12345",
-    "database": "model_assoc_test",
+    "database": "modelassociation_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "ilham",
     "password": "Ilham12345",
-    "database": "model_assoc_production",
+    "database": "modelassociation_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
